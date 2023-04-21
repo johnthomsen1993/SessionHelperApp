@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SessionHelperAppApp: App {
+struct SessionHelperApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
